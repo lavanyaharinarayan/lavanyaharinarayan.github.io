@@ -6,16 +6,16 @@ html {
 }
 
 body {
-	background-color: #fff;
+    background-color: #fff;
     font-size: 100%;
     margin: 0;
     padding: 0;
 }
 
 .container { 
-	font-family: 'Lato', sans-serif;
-	color: #333;
-	text-size: 1em;
+    font-family: 'Lato', sans-serif;
+    color: #333;
+    text-size: 1em;
     line-height: 1.25em;
     position: fixed; 
     top: 10%;
@@ -25,9 +25,9 @@ body {
 }
 
 h1 {
-	color: #111;
-	font-size: 1.25em;
-	font-weight: 250;
+    color: #111;
+    font-size: 1.25em;
+    font-weight: 250;
     line-height: 1.5em;
     text-indent: 10px;
     text-align: left;
